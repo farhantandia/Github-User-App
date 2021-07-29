@@ -22,7 +22,7 @@ This is a project learning record for android fundamental final submission at [D
 ## Screenshot
 Splash Screen              | Home                       | Settings                  | User Search             | 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/farhantandia/GithubUserApp/blob/main/screenshot/9.jpg" width="250"/>|<img src="https://github.com/farhantandia/GithubUserApp/screenshot/1.jpg" width="250"/>|<img src="https://github.com/farhantandia/Android-App-Dev/GithubUserApp/screenshot/2.jpg" width="250"/>|<img src="https://github.com/farhantandia/Android-App-Dev/blob/main/GithubUserApp/screenshot/10.jpg" width="250"/>
+<img src="https://github.com/farhantandia/blob/main/GithubUserApp/screenshot/9.jpg" width="250"/>|<img src="https://github.com/farhantandia/blob/main/GithubUserApp/screenshot/1.jpg" width="250"/>|<img src="https://github.com/farhantandia/blob/main/GithubUserApp/screenshot/2.jpg" width="250"/>|<img src="https://github.com/farhantandia/blob/main/GithubUserApp/screenshot/10.jpg" width="250"/>
 
 Language Setting           | App Reminder              | Author Detail             | Detail Github User       | 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
